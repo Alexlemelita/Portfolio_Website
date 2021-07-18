@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Alex Lemelita
+*Data Scientist*
 
-You can use the [editor on GitHub](https://github.com/Alexlemelita/Portfolio_Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Education
+* Bachelors of Science (Statistics), *University of Eldoret*, 2011-2015
+* IBM Certified Data Science Professional, *Coursera*, June 2019-
+* Google Data Analyst Professional, *Coursera*, May 2019-
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# [Project 1: Resume Text Analysis](http://github.com/alexlemelita/text-analysis)
 
-### Markdown
+This project uses python libraries to analyse resume dataset.
+* **Python libraries used:** sklearn, kNN, NLP
+* **Input:** Resumes 
+* **Output:** Most suitable resume application
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# [Project 2: Loan Repayment Prediction](http://github.com/alexlemelita/loan-prediction-AV)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alexlemelita/Portfolio_Website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This project makes use of ***feature selection*** and ***machine learning algorithms*** to predict the riskiest factors.
+* **Python libraries used:** pandas_profiling, seaborn, numpy, pandas
+* **Input:** Patients data
+* **Output:** Diabetes risk factors
