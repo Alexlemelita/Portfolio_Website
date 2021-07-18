@@ -3,8 +3,8 @@
 
 # Education
 * Bachelors of Science (Statistics), *University of Eldoret*, 2011-2015
-* IBM Certified Data Science Professional, *<a href="https://Coursera.com"></a*, June 2019-
-* Google Data Analyst Professional, *<a href="https://Coursera.com"></a*, May 2019-
+* IBM Certified Data Science Professional, *Coursera*, June 2019-
+* Google Data Analyst Professional, *Coursera*, May 2019-
 
 # [Project 1: Resume Text Analysis](http://github.com/alexlemelita/text-analysis)
 ![alt text](gabrielle-henderson-HJckKnwCXxQ-unsplash.jpg)
